@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(240, 236, 237);
+  }
+  h1 {
+    color: rgb(24, 3, 3);
+    text-align: center;
+  }
+  p {
+    color: blue;
+  }
+  p1{
+    color: green;
+    font-size: large;
+  }
+  h2{
+    color: red;
+    font: 200;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  img
+  {
+    text-align: center;
+  }
